@@ -1,6 +1,12 @@
 # Five paragraphs that matter
 
 <!-- Note -->
+Sometimes there are pretty complex things that you want to convey to a
+group of people. This is a where lot of people would be inclined to
+call a meeting but in reality, there's a much better way to do that,
+in writing. And doing it in writing will help you do it in a much
+clearer, more concise, and more efficient fashion.
+
 Whenever you need to thoroughly **brief a group of people on an
 important matter,** in writing, consider using a **5-paragraph
 format.**
@@ -71,3 +77,23 @@ concepts of situation, objective, plan, logistics, and
 communications. But they sound much more casual and informal and
 approachable.
 
+
+## Updates
+
+<!-- Note -->
+Sometimes you need to convey updates to your plan. Then, it's often
+not necessary to redo the whole 5 paragraphs. Instead, you just leave
+out the bits that are unchanged, compared to your previous plan.
+
+However, it's *always* a good idea to include the following 3 paragraphs:
+
+
+1. Current Situation
+2. Current Objective
+3. Updated Plan
+
+<!-- Note -->
+And the reason for this is easy to explain. There are really only two
+reasons why you would update your plan: either because the situation
+is different (the circumstances have changed), or the objective has
+been modified. And people should know which of the two it is.
