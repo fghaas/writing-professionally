@@ -97,3 +97,17 @@ And the reason for this is easy to explain. There are really only two
 reasons why you would update your plan: either because the situation
 is different (the circumstances have changed), or the objective has
 been modified. And people should know which of the two it is.
+
+
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/80/Rudyard_Kipling_from_John_Palmer.jpg" data-background-size="contain" -->
+## Rudyard Kipling <!-- .element class="hidden" -->
+
+
+## Kipling's Six Serving-Men <!-- .element class="hidden" -->
+
+> I keep six honest serving-men  
+> (They taught me all I knew);  
+> Their names are **What** and **Why** and **When**  
+> And **How** and **Where** and **Who.**
+
+— Rudyard Kipling, The Elephant's Child (1902)  <!-- .element class="fragment" -->
