@@ -36,11 +36,10 @@ body {
     }
 
     .fragment {
-	.visible {
+	&.visible {
 	    opacity: 0.4 !important;
 	}
-
-	.current-fragment {
+	&.current-fragment {
 	    opacity: 1 !important;
 	}
     }
