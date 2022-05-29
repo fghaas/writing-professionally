@@ -7,7 +7,7 @@ A 45-minute talk on expressing yourself clearly, succinctly, and professionally 
 
 
 
-Rendered slides from this presentation are at <https://fghaas.github.io/writing_professionally>.
+Rendered slides from this presentation are at <https://fghaas.github.io/writing-professionally>.
 
 * * *
 
