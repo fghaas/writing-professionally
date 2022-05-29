@@ -47,37 +47,73 @@ The project manager must vet all outside contractors for
 reliability. <!-- .element class="fragment" -->
 
 
-## Avoiding redundancy
+## Possessive apostrophe
+
+Cleuras: more than one Cleura
+
+Cleura's: of or related to Cleura
 
 
 ## Punctuation
 
 
+### Whitespace
+
 Whitespace always goes *after* punctuation,  
 never before.
 
 
+### Question marks (?)
+
 Questions should end in a question mark,  
 shouldn't they?
 
+
+### Exclamation marks (!)
 
 Use no more than one explanation mark per paragraph. 
 
 Zero is fine, too.
 
 
+### Semicolons
+
 Semicolons are great; splitting the sentence in two is usually better.
 
 
-it's ≠ its
+### it's vs. its
+
+it's: it is (or it has)
+
+its: of it
+
+(Yes, this is illogical and immensely confusing. English is weird.)
 
 
-Parentheses (like these) are always removable.
+### Parentheses
+
+Parentheses (like these) are always removable, without taking anything
+(of significant value) away from the statement.
 
 
-A hyphen (-) joins things. 
+### Square brackets
 
-An em dash (—) separates them.
+You can use square brackets to shorten quotes.
+
+> To be, or not to be. That is the question. [...] To die, to
+> sleep. No more!
 
 
-Possessive apostrophes exist.
+### Angle brackets
+
+Angle brackets often serve as placeholders, for when the reader must
+replace &lt;important thing&gt; with &lt;other thing&gt;.
+
+
+### Hyphens and dashes
+
+A hyphen joins word-pairs together. 
+
+En dashes identify ranges or dates (March – June).
+
+Em dashes — like this — can replace parentheses. 
