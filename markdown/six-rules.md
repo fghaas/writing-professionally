@@ -48,6 +48,10 @@ If it is possible to cut a word out, always cut it out.
 <!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7f/11exupery-inline1-500.jpg" data-background-size="contain" -->
 ### Saint-Exupéry portrait <!-- .element class="hidden" -->
 
+<!-- Note -->
+> Picture: Public domain, sourced from Wikimedia Commons
+> <https://commons.wikimedia.org/wiki/File:11exupery-inline1-500.jpg>
+
 
 ### Saint-Exupéry quote (original) <!-- .element class="hidden" -->
 
