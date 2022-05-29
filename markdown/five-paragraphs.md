@@ -102,6 +102,10 @@ been modified. And people should know which of the two it is.
 <!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/80/Rudyard_Kipling_from_John_Palmer.jpg" data-background-size="contain" -->
 ## Rudyard Kipling <!-- .element class="hidden" -->
 
+<!-- Note -->
+> Picture: Public domain, sourced from Wikimedia Commons
+> <https://commons.wikimedia.org/wiki/File:Rudyard_Kipling_(portrait).jpg>
+
 
 ## Kipling's Six Serving-Men <!-- .element class="hidden" -->
 
