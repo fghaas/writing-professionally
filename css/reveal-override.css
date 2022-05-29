@@ -28,6 +28,10 @@ body:after {
   border: none;
 }
 
+.reveal blockquote {
+  text-align: left;
+}
+
 .reveal .fragment.visible {
   opacity: 0.4 !important;
 }

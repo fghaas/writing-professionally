@@ -35,6 +35,10 @@ body {
 	border: none;
     }
 
+    blockquote {
+	text-align: left;
+    }
+
     .fragment {
 	&.visible {
 	    opacity: 0.4 !important;
