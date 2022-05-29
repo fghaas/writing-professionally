@@ -45,6 +45,10 @@ I don't mean to say that.  <!-- .element class="fragment" -->
 If it is possible to cut a word out, always cut it out.
 
 
+<!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7f/11exupery-inline1-500.jpg" data-background-size="contain" -->
+### Saint-Exupéry portrait <!-- .element class="hidden" -->
+
+
 ### Saint-Exupéry quote (original) <!-- .element class="hidden" -->
 
 > « Il semble que la perfection soit atteinte non quand il n'y a plus
