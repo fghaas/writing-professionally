@@ -6,7 +6,7 @@
 (parallel structure)
 
 
-We wanted to know the time, the place, and where we were going.
+We wanted to know the time, the place, and where we were going.  <!-- .element class="fragment" -->
 
 We wanted to know the time, the place, and the destination. <!-- .element class="fragment" -->
 
@@ -15,7 +15,7 @@ We wanted to know the time, the place, and the destination. <!-- .element class=
 
 
 The drug is highly effective,  
-but has significant side effects.
+but has significant side effects.  <!-- .element class="fragment" -->
 
 The drug has significant side effects,  
 but is highly effective. <!-- .element class="fragment" -->
@@ -41,17 +41,10 @@ framework, and
 
 
 The project manager may not hire outside contractors except those that
-have been carefully vetted for reliability.
+have been carefully vetted for reliability.  <!-- .element class="fragment" -->
 
 The project manager must vet all outside contractors for
 reliability. <!-- .element class="fragment" -->
-
-
-## Possessive apostrophe
-
-Cleuras: more than one Cleura
-
-Cleura's: of or related to Cleura
 
 
 ## Punctuation
@@ -81,13 +74,20 @@ Zero is fine, too.
 Semicolons are great; splitting the sentence in two is usually better.
 
 
+### Possessive apostrophe
+
+Cleuras: more than one Cleura <!-- .element class="fragment" -->
+
+Cleura's: of or related to Cleura <!-- .element class="fragment" -->
+
+
 ### it's vs. its
 
-it's: it is (or it has)
+it's: it is (or it has) <!-- .element class="fragment" -->
 
-its: of it
+its: of it <!-- .element class="fragment" -->
 
-(Yes, this is illogical and immensely confusing. English is weird.)
+(Yes, this is illogical and immensely confusing. English is weird.) <!-- .element class="fragment" -->
 
 
 ### Parentheses
@@ -112,8 +112,8 @@ replace &lt;important thing&gt; with &lt;other thing&gt;.
 
 ### Hyphens and dashes
 
-A hyphen joins word-pairs together. 
+A hyphen joins word-pairs together.  <!-- .element class="fragment" --> 
 
-En dashes identify ranges or dates (March – June).
+En dashes identify ranges or dates (March – June).  <!-- .element class="fragment" -->
 
-Em dashes — like this — can replace parentheses. 
+Em dashes — like this — can replace parentheses.  <!-- .element class="fragment" -->
