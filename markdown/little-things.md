@@ -49,6 +49,33 @@ reliability. <!-- .element class="fragment" -->
 
 ## Punctuation
 
+... does matter. Really.
+
+
+### Eats shoots and leaves  <!-- .element class="hidden" -->
+
+The panda eats bamboo shoots and leaves.
+
+<!-- Note -->
+Here we are dealing with a perfectly normal panda.
+
+
+### Eats shoots, and leaves  <!-- .element class="hidden" -->
+
+The panda eats bamboo shoots, and leaves.
+
+<!-- Note -->
+This panda is a picky eater who takes off after eating the bamboo
+shoots, rather than also eating the bamboo leaves.
+
+
+### Eats, shoots, and leaves  <!-- .element class="hidden" -->
+
+The panda eats bamboo, shoots, and leaves.
+
+<!-- Note -->
+And this panda is a gun nut with an anger management problem.
+
 
 ### Whitespace
 
@@ -87,7 +114,8 @@ it's: it is (or it has) <!-- .element class="fragment" -->
 
 its: of it <!-- .element class="fragment" -->
 
-(Yes, this is illogical and immensely confusing. English is weird.) <!-- .element class="fragment" -->
+<!-- Note -->
+Yes, this is illogical and immensely confusing. English is weird.
 
 
 ### Parentheses
