@@ -11,7 +11,7 @@ professionally in writing. Compiled for the English language; parts
 may be applicable to other languages as well.
 
 
-<!-- .slide: data-background="/images/qrcode.svg" data-background-size="contain" -->
+<!-- .slide: data-background="images/qrcode.svg" data-background-size="contain" -->
 ## QR code (for following along) <!-- .element class="hidden" -->
 
 
