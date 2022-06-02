@@ -21,8 +21,13 @@ NDA:s → NDAs
 
 ## ..., or?
 
-Ending a statenent with "... or" is a structure that does not exist in
+Adding "..., or?" to a statement is a structure that does not exist in
 English.
+
+<!-- Note -->
+Adding the suffix "..., or?" to a statement that you want to follow up
+with a question that asks for confirmation — that is a structure that
+does not exist in English.
 
 
 This is a good idea, *right?*
