@@ -35,6 +35,12 @@ are not, your readers will be very confused by your reference to a
 ## 2
 Never use a long word where a short one will do.
 
+<!-- Note -->
+It's remarkable how much clearer your writing gets if you ruthlessly
+edit it. English almost always gives you a choice between using a long
+word, and a shorter one with the same meaning. Always opt for the
+short one.
+
 
 I don't mean to insinuate that.  <!-- .element class="fragment" -->
 
@@ -43,6 +49,11 @@ I don't mean to say that.  <!-- .element class="fragment" -->
 
 ## 3
 If it is possible to cut a word out, always cut it out.
+
+<!-- Note -->
+When you're using shorter words instead of longer ones, you cut
+syllables and letters from your writing. Naturally, you can also
+extend that concept to cutting whole words.
 
 
 <!-- .slide: data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7f/11exupery-inline1-500.jpg" data-background-size="contain" -->
@@ -64,18 +75,31 @@ Antoine de Saint-Exupéry
 
 ### Saint-Exupéry quote (English) <!-- .element class="hidden" -->
 
-> It seems that perfection is achieved not when there is nothing left
-> to add, but when there is nothing left to take away.
+> It appears that perfection is achieved not when there is nothing
+> left to add, but when there is nothing left to take away.
+
+<!-- Note -->
+It needs to be said that this quote disagrees with itself a bit...
 
 
 ### Saint-Exupéry quote (English, edited) <!-- .element class="hidden" -->
 
-> ~It seems that~ Perfection is achieved not when there is nothing
+> ~It appears that~ Perfection is achieved not when there is nothing
 > left to add, but when there is nothing left to take away.
+
+<!-- Note -->
+... because it does contain a phrase that is perfectly okay to take
+away, still.
 
 
 ## 4
 Never use the passive where you can use the active.
+
+<!-- Note -->
+Orwell's rule No. 4 states that you should be using the active voice
+whenever you can. There are some exceptions to this, but in general
+the active voice tends to be shorter, more concise, and thus clearer
+than the passive voice.
 
 
 ### Rewriting passive-voice phrases in the active voice <!-- .element class="hidden" -->
@@ -83,6 +107,12 @@ Never use the passive where you can use the active.
 The system has been rebooted.  <!-- .element class="fragment" -->
 
 We have rebooted the system.  <!-- .element class="fragment" -->
+
+<!-- Note -->
+Sometimes, it's difficult for non-native speakers to even *recognize*
+that they are using the passive voice. There's a neat little trick to
+apply here: if you can take the sentence and append "by dragons" to
+it, then it's passive voice.
 
 
 ### Saint-Exupéry quote (English, active voice) <!-- .element class="hidden" -->
@@ -102,12 +132,37 @@ clear.
 Never use a foreign phrase, a scientific word, or a jargon word if you
 can think of an everyday English equivalent.
 
+<!-- Note -->
+Orwell's fifth rule emphasises simplicity and accessibility. If there
+is an uncommon word that means *the same thing* as a common one, always
+use the common one.
 
+Note that this means that you can — and should — use technical terms
+if they have *no* everyday equivalent. That's simply because using an
+imprecise term would mean *losing* clarity, when compared to using a
+precise term. But when we have one that we *can* easily replace with a
+common word, we should do so.
+
+
+### Replacing uncommon words with common ones <!-- .element class="hidden" -->
 He is a pulchritudinous masculine specimen.  <!-- .element class="fragment" -->
 
 He is a handsome guy. <!-- .element class="fragment" -->
+
+<!-- Note -->
+Here, that is the case, and we can simply replace the uncommon terms
+with common once.
+
+Another example in the corporate world is that we can easily replace
+the jargon term "human resources" with "people":
+
+* For this project we'll need to acquire more human resources.
+* For this project we'll need to hire more people.
 
 
 ## 6
 Break any of these rules sooner than say anything outright barbarous.
 
+<!-- Note -->
+And finally, Orwell reminds us that while this ruleset is a good
+guideline to follow, it is not absolute.
