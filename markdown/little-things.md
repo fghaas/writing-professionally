@@ -4,6 +4,7 @@
 Let's look at a few other, small things that you can think about to
 make your writing better.
 
+
 ## Parallelism
 
 (parallel structure)
