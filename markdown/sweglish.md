@@ -16,7 +16,12 @@ English.
 
 ## Plurals of acronyms
 
-NDA:s → NDAs
+URL:s → URLs
+
+<!-- Note -->
+In Swedish, writers use the colon for plural, genitive, and definite
+genitive forms of acronyms. In English, that does not exist. Instead,
+we just append a lowercase "s" to the all-caps acronym or initialism.
 
 
 ## ..., or?
@@ -42,8 +47,23 @@ I thought we agree on that, *don't we?*
 ... should almost always be replaced with *disruption* (or *issue,* or
 *problem,* or *fault*).
 
+<!-- Note -->
+Swedish and German native speakers often mentally translate the nouns
+"störning" or "Störung" into English as "disturbance". This is a
+natural error because these derive from the verbs "störa" and
+"stören", respectively, for which the English translation is indeed
+"disturb".
 
-## "dosen't"
+However, in English "disturbance" is usually read as shorthand for
+"civil disturbance", or "disturbance of the peace", which are
+euphemisms for a violent riot.
+
+Thus, to an English speaking customer the statement "we have a
+disturbance in our data center" would sound much more dramatic than
+you probably intend it to be.
+
+
+## "dosen't" 
 
 It stands for "does not", not for "dose not".
 
