@@ -73,9 +73,9 @@ expressing strong disagreement, you can do so in a respectful manner.
 
 **Clarity** takes two forms:
 
-1. Clear expression <!-- .element class="fragment" -->
+1. Clear expression
 
-2. Clear structure  <!-- .element class="fragment" -->
+2. Clear structure
 
 <!-- Note -->
 Writing clearly can mean one of two things:
