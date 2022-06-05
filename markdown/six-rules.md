@@ -63,6 +63,11 @@ extend that concept to cutting whole words.
 > Picture: Public domain, sourced from Wikimedia Commons
 > <https://commons.wikimedia.org/wiki/File:11exupery-inline1-500.jpg>
 
+There's a famous quote that fits well with this particular rule that
+comes from the French writer, poet, and aviator Antoine de
+Saint-Exupéry (best known to English-speaking readers for his novella
+*The Little Prince*).
+
 
 ### Saint-Exupéry quote (original) <!-- .element class="hidden" -->
 
@@ -89,7 +94,7 @@ It needs to be said that this quote disagrees with itself a bit...
 
 <!-- Note -->
 ... because it does contain a phrase that is perfectly okay to take
-away, still.
+away, still. But it is a good quote to go by, still.
 
 
 ## 4
