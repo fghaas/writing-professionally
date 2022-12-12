@@ -166,7 +166,7 @@ ones, with a question mark.
 
 ### Exclamation marks (!)
 
-Use no more than one explanation mark per paragraph. 
+Use no more than one exclamation mark per paragraph. 
 
 Zero is fine, too.
 
